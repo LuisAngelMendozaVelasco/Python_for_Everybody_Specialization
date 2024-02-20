@@ -1,0 +1,27 @@
+# Data Models and Relational SQL
+
+In this section we learn about how data is stored across multiple tables in a database and how rows are linked (i.e., we establish relationships) in the database.
+
+## Lectures
+
+- [Video - 15.4 - Designing a Data Model](https://www.coursera.org/learn/python-databases/lecture/61E5d/15-4-designing-a-data-model)
+
+- [Video - 15.5 - Representing a Data Model in Tables](https://www.coursera.org/learn/python-databases/lecture/jdLhw/15-5-representing-a-data-model-in-tables)
+
+- [Video - 15.6 - Inserting Relational Data](https://www.coursera.org/learn/python-databases/lecture/oX32U/15-6-inserting-relational-data)
+
+- [Video - 15.7 - Reconstructing Data with JOIN](https://www.coursera.org/learn/python-databases/lecture/3DULg/15-7-reconstructing-data-with-join)
+
+- [Video - Worked Example: Tracks.py (Chapter 15)](https://www.coursera.org/learn/python-databases/lecture/iD0zQ/worked-example-tracks-py-chapter-15)
+
+## Assessments
+
+- [Lab - Multi-Table Database - Tracks](./Labs/Assignment_3.ipynb)
+
+## Bonus
+
+- [Video - Bonus: Office Hours Perth, Australia](https://www.coursera.org/learn/python-databases/lecture/edquV/bonus-office-hours-perth-australia)
+
+- [Video - Bonus Interview: Niklaus Wirth](https://www.coursera.org/learn/python-databases/lecture/EJ9sB/bonus-interview-niklaus-wirth)
+
+- [Video - Bonus: Office Hours Barcelona](https://www.coursera.org/learn/python-databases/lecture/kDXKh/bonus-office-hours-barcelona)
